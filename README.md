@@ -7,3 +7,7 @@ Very simple integer calculator for iOS
 - Stackviews
 - Storyboard Constraints
 - Working with IBOutlets
+
+## In action:
+
+![](demo.gif)
